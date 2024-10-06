@@ -1,0 +1,4 @@
+pipenv shell
+python visu.py X
+
+or pipenv run python visu.py ../12
