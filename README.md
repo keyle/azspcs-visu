@@ -2,9 +2,9 @@
 
 [Link to contest](http://azspcs.com/Contest/BaltosPuzzle/)
 
-<img src="demo/viz.png" width="700">
+<img src="demo/demo.png" width="700">
 
-see also the [Flutter version](/keyle/azpscs-flutterviz) version
+see also the [Flutter version](https://github.com/keyle/azspcs-flutterviz) version
 
 ```
 pipenv shell
