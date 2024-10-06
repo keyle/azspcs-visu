@@ -8,11 +8,11 @@ see also the [Flutter version](https://github.com/keyle/azspcs-flutterviz) versi
 
 ```
 pipenv shell
-python visu.py 3
+python visu.py puzzles/3
 ```
 
 or 
 
 ```
-pipenv run python visu.py 19
+pipenv run python visu.py puzzles/19
 ```
